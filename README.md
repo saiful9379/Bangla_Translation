@@ -3,6 +3,8 @@ Transformer Based Bangla Machine Translator. Here we have used 195775 number of 
 
 Using the Bangla dataset plus the dataset in the data folder, I was able to achieve a BLEU score of 0.39 on the test set (current SOTA is around 0.42), after 4/5 days of training on a single 8gb GPU. For more results see the tutorial again.
 
+Translate bangla to english. This model is train based on encoder decoder with attention mechanism. This repository may be a starting point to approaching bangla machine translation problem. If this repository helps others people who are working on bangla machine translation then it would be very greatfull for me.
+
 # Requirements
 ```
 numpy==1.19.5
@@ -31,6 +33,10 @@ Number of English unique word :
 তিনি গেলার্ট গ্রিন্ডেলওয়াল্ডের প্রেমে পড়েছিলেন	He fell in love with Gelart Grindelwald 
 তিনি ব্রহ্মচর্য ও পুথিগত জীবনকেই বেছে নেন	He chose celibacy and bookish life 
 ```
+
+Available Public dataset:
+I use dataset provide in http://www.manythings.org/anki/ben-eng.zip . This dataset contain english bangla sentence pair in the following format.
+
 # Configuration
 
 Additional parameters:
@@ -67,3 +73,19 @@ Chcek the training model [click here]()
 # Inference
 
 ![image](assert/translation.png)
+
+
+
+# Experiemnt Machine Configuration,
+```
+NVIDIA Driver Version: 470.161.03
+CUDA Version: 11.2
+NVIDIA GeForce 3090 : 24 GB
+```
+# References
+1. https://torchtutorialstaging.z5.web.core.windows.net/beginner/translation_transformer.html
+2. https://arusl.medium.com/japanese-english-language-translation-with-transformer-using-pytorch-243738146806
+3. https://github.com/hyunwoongko/transformer
+4. https://www.kaggle.com/datasets/ari994/banglaenglishtransliteration
+
+
