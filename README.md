@@ -36,3 +36,4 @@ Additional parameters:
 
 # Inference
 
+![image](assert/translation.png)
