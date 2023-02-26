@@ -49,6 +49,17 @@ Additional parameters:
 -max_strlen : 
 -checkpoint :
 ```
+```
+SRC_VOCAB_SIZE = len(bn_vocab)
+TGT_VOCAB_SIZE = len(en_vocab)
+EMB_SIZE = 512
+NHEAD = 8
+FFN_HID_DIM = 512
+BATCH_SIZE = 150
+NUM_ENCODER_LAYERS = 6
+NUM_DECODER_LAYERS = 6
+NUM_EPOCHS = 300
+```
 
 # Pretrain Model
 Chcek the training model [click here]()
