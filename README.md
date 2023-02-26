@@ -34,6 +34,9 @@ Additional parameters:
 -checkpoint :
 ```
 
+# Pretrain Model
+Chcek the training model [click here]()
+
 # Inference
 
 ![image](assert/translation.png)
