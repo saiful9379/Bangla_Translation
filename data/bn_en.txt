@@ -1,0 +1,701 @@
+যাও।	Go.
+যান।	Go.
+যা।	Go.
+পালাও!	Run!
+পালান!	Run!
+কে?	Who?
+আগুন!	Fire!
+বাঁচাও!	Help!
+বাঁচান!	Help!
+থামুন!	Stop!
+থামো!	Stop!
+থাম!	Stop!
+নমস্কার!	Hello!
+বুঝলাম।	I see.
+আমি চেষ্টা করি।	I try.
+একটু হাসুন।	Smile.
+একটু হাসো।	Smile.
+আক্রমণ!	Attack!
+ওঠো।	Get up.
+উঠুন।	Get up.
+বুঝে গেছি!	Got it!
+ধরেছি!	Got it!
+বুঝেছো?	Got it?
+বুঝেছেন?	Got it?
+বুঝেছিস?	Got it?
+আমি জানি।	I know.
+আমার জানা আছে।	I know.
+আমি হেরে গেছি।	I lost.
+আমার ১৯ বছর বয়স।	I'm 19.
+আমি ঠিক আছি।	I'm OK.
+শোন।	Listen.
+শুনুন।	Listen.
+কোন মতেই না!	No way!
+সত্যি?	Really?
+তাই নাক?	Really?
+ধন্যবাদ।	Thanks.
+চেখে দেখুন।	Try it.
+চেখে দেখো।	Try it.
+আমরা জিতে গেছে।	We won.
+আমিই কেন?	Why me?
+টমকে জিজ্ঞাসা করো।	Ask Tom.
+টমকে জিজ্ঞাসা করুন।	Ask Tom.
+টমকে জিজ্ঞাসা কর।	Ask Tom.
+আমাকে ডেক।	Call me.
+আমাকে ডাকবেন।	Call me.
+আমাকে ডাকিস।	Call me.
+আমাদের ডেকো।	Call us.
+আমাদের ডাকিস।	Call us.
+আমাদের ডাকবেন।	Call us.
+ভেতরে আসুন।	Come in.
+ভেতরে আসো।	Come in.
+টমকে আনো।	Get Tom.
+টমকে ডাকো।	Get Tom.
+টমকে ধরো।	Get Tom.
+টমকে আনুন।	Get Tom.
+টমকে ডাকুন।	Get Tom.
+টমকে ধরুন।	Get Tom.
+বেরও।	Get out.
+বেরো।	Get out.
+চলে যাও!	Go away!
+চলে যান।	Go away!
+চলে যাও।	Go away.
+চলে যান।	Go away.
+বাড়ি যাও।	Go home.
+বাড়ি যা।	Go home.
+বাড়ি যান।	Go home.
+আস্তে যান।	Go slow.
+আস্তে যাও।	Go slow.
+আস্তে যা।	Go slow.
+বিদায়।	Goodbye!
+এলাম!	Goodbye!
+সে এসেছিলো।	He came.
+উনি এসেছিলেন।	He came.
+ও এসেছিলো।	He came.
+তিনি এসেছিলেন।	He came.
+এ দৌড়ায়।	He runs.
+ইনি দৌড়ান।	He runs.
+ও দৌড়ায়।	He runs.
+সে দৌড়ায়।	He runs.
+উনি দৌড়ান।	He runs.
+তিনি দৌড়ান।	He runs.
+আমাকে সাহায্য করুন!	Help me!
+আমাদের সাহায্য করুন।	Help us.
+আমাদের সাহায্য করো।	Help us.
+আমাদের সাহায্য কর।	Help us.
+টমকে মারো।	Hit Tom.
+টমকে মার।	Hit Tom.
+টমকে মারুন।	Hit Tom.
+আমি একমত।	I agree.
+আমি চেষ্টা করেছিলাম।	I tried.
+আমি চেষ্টা করেছি।	I tried.
+আমি টম।	I'm Tom.
+আমি লাজুক।	I'm shy.
+আমি ভিজে গেছি।	I'm wet.
+আমি।	It's me.
+ওটা রাখো।	Keep it.
+ওটা রাখুন।	Keep it.
+ওটা রাখ।	Keep it.
+আমিও।	Me, too.
+একদম ঠিক!	Perfect!
+আমাকে দেখান।	Show me.
+আমাকে দেখাও।	Show me.
+আমাকে দেখা।	Show me.
+এটা নিন।	Take it.
+এটা নাও।	Take it.
+এটা নে।	Take it.
+আমাকে বল।	Tell me.
+আমাকে বলুন।	Tell me.
+আমাকে বলো।	Tell me.
+টম খেয়েছিল।	Tom ate.
+টম খেয়েছে।	Tom ate.
+টম দৌড়াল।	Tom ran.
+টম দৌড়েছিল।	Tom ran.
+টম জিতল।	Tom won.
+ঘুম থেকে ওঠ।	Wake up.
+ঘুম থেকে উঠুন।	Wake up.
+আমরা হেরে গেছি।	We lost.
+আমরা হেরে গেছিলাম।	We lost.
+স্বাগতম।	Welcome.
+সুস্বাগতম।	Welcome.
+কে খেয়েছিল?	Who ate?
+কে খেয়েছিলেন?	Who ate?
+কে খেয়েছে?	Who ate?
+কে খেয়েছেন?	Who ate?
+কে দৌড়াল?	Who ran?
+কে দৌড়েছিল?	Who ran?
+কে দৌড়ালেন?	Who ran?
+কে দৌড়েছিলেন?	Who ran?
+কে জিতল?	Who won?
+কে জিতেছিল?	Who won?
+কেন নয়?	Why not?
+তুমি দৌড়াও।	You run.
+তোমরা দৌড়াও।	You run.
+আপনি দৌড়ান।	You run.
+আপনারা দৌড়ান।	You run.
+আপনি জিতলেন।	You won.
+তুমি জিতলে।	You won.
+চুপ কর।	Be quiet.
+চুপ করো।	Be quiet.
+চুপ করুন।	Be quiet.
+টমকে ডাকো।	Call Tom.
+টমকে ডাকুন।	Call Tom.
+টমকে ফোন করো।	Call Tom.
+টমকে ফোন করুন।	Call Tom.
+যেও না।	Don't go.
+যাবেন না।	Don't go.
+যাস না।	Don't go.
+যাও এখান থেকে!	Get lost!
+যান এখান থেকে!	Get lost!
+যা এখান থেকে!	Get lost!
+টমকে ধরো।	Grab Tom.
+টমকে ধরুন।	Grab Tom.
+আনন্দ কর।	Have fun.
+মজা কর।	Have fun.
+আনন্দ করুন।	Have fun.
+মজা করুন।	Have fun.
+উনি বললেন।	He spoke.
+সে বললো।	He spoke.
+ও বললো।	He spoke.
+তিনি বললেন।	He spoke.
+উনি চেষ্টা করেন।	He tries.
+তিনি চেষ্টা করেন।	He tries.
+ও চেষ্টা করে।	He tries.
+সে চেষ্টা করে।	He tries.
+টমকে সাহায্য করো।	Help Tom.
+টমকে সাহায্য করুন।	Help Tom.
+কতটা গভীর?	How deep?
+তাড়াতাড়ি করো।	Hurry up.
+তাড়াতাড়ি কর।	Hurry up.
+তাড়াতাড়ি করুন।	Hurry up.
+আমি যেতে পারি।	I can go.
+আমি ভুলে গেছি।	I forgot.
+আমি বুঝতে পারলাম।	I get it.
+আমি বুঝেছি।	I got it.
+আমি বুঝে গেছি।	I got it.
+আমি অস্বীকার করছি।	I refuse.
+আমি থাকলাম।	I stayed.
+আমি থেকে গেলাম।	I stayed.
+আমি এটা ব্যবহার করি।	I use it.
+আমি অপেক্ষা করলাম।	I waited.
+আমি এসে গেছি।	I'm back.
+আমি ফিরে এসেছি।	I'm back.
+আমি ব্যস্ত।	I'm busy.
+আমার শীত করছে।	I'm cold.
+আমি ঠিক আছি।	I'm fine.
+আমার পেট ভরতি হয়ে গেছে।	I'm full.
+আমি এসে গেছি।	I'm home.
+আমি কুঁড়ে।	I'm lazy.
+আমি অলস।	I'm lazy.
+আমি হারিয়ে গেছি।	I'm lost.
+আমি ঠিক আছি।	I'm okay.
+আমি গরিব।	I'm poor.
+আমি অসুস্থ।	I'm sick.
+আমি ভালো আছি।	I'm well.
+আমি জিতে গেছি।	I've won.
+এটা নতুন।	It's new.
+টমকে চুমু করুন।	Kiss Tom.
+টমকে চুমু করো।	Kiss Tom.
+ছাড়ো।	Leave it.
+ছাড়।	Leave it.
+ছাড়ুন।	Leave it.
+আমাকে চেড়ে দাও।	Leave me.
+আমাকে চেড়ে দিন।	Leave me.
+আমাকে চেড়ে দে।	Leave me.
+আমাদের চেড়ে দাও।	Leave us.
+আমাদের চেড়ে দিন।	Leave us.
+আমাদের চেড়ে দে।	Leave us.
+যাওয়া যাক!	Let's go!
+যাওয়া যাক।	Let's go.
+বসো!	Sit down!
+বস!	Sit down!
+বসুন!	Sit down!
+বসুন।	Sit down.
+বস।	Sit down.
+বসো।	Sit down.
+জোরে বলো!	Speak up!
+জোরে বল!	Speak up!
+দাঁড়াও!	Stand up!
+দাঁড়া!	Stand up!
+দাঁড়ান!	Stand up!
+দাঁড়াও।	Stand up.
+দাঁড়া।	Stand up.
+দাঁড়ান।	Stand up.
+টমকে থামান।	Stop Tom.
+টমকে থামাও।	Stop Tom.
+টমকে আটকাও।	Stop Tom.
+টমকে আটকান।	Stop Tom.
+টমকে বলো।	Tell Tom.
+টমকে বলুন।	Tell Tom.
+দারুন!	Terrific!
+তারা জিতলো।	They won.
+ওনারা জিতলেন।	They won.
+ওরা জিতলো।	They won.
+তাঁরা জিতলো।	They won.
+টম এলো।	Tom came.
+টম এসেছিলো।	Tom came.
+টম মারা গেছে।	Tom died.
+টম মারা গেলো।	Tom died.
+টম জানতো।	Tom knew.
+টম মিথ্যা কথা বললো।	Tom lied.
+টম মিথ্যে বলে।	Tom lies.
+টম হেরে গেলো।	Tom lost.
+আমাকে বিশ্বাস করো।	Trust me.
+আমাকে বিশ্বাস কর।	Trust me.
+আমাকে বিশ্বাস করুন।	Trust me.
+আরও চেষ্টা করো।	Try hard.
+আরও চেষ্টা কর।	Try hard.
+আরও চেষ্টা করুন।	Try hard.
+এটা ব্যবহার কর।	Use this.
+এটা ব্যবহার করো।	Use this.
+এটা ব্যবহার করুন।	Use this.
+আমরা একমত।	We agree.
+আমরা চেষ্টা করেছিলাম।	We tried.
+কি জন্যে?	What for?
+কি কারনে?	What for?
+কি মজা!	What fun!
+কে এসেছিলো?	Who came?
+কে কে এসেছিলো?	Who came?
+কে এলো?	Who came?
+কে পড়লো?	Who fell?
+উনি কে?	Who's he?
+ও কে?	Who's he?
+সে কে?	Who's he?
+তিনি কে?	Who's he?
+আমার প্রশ্নের জবাব দিন।	Answer me.
+আমার প্রশ্নের জবাব দাও।	Answer me.
+উত্তর দিন।	Answer me.
+উত্তর দাও।	Answer me.
+পাখি ওড়ে।	Birds fly.
+শান্ত হোন।	Calm down.
+শান্ত হও।	Calm down.
+আমি কি খেতে পারি?	Can I eat?
+কেঁদো না।	Don't cry.
+ভেতরে যান।	Go inside.
+ভেতরে যাও।	Go inside.
+কি অদ্ভুত!	How weird!
+আমার শীত করছে।	I am cold.
+আমি ঠিক আছি।	I am okay.
+আমি অসুস্থ।	I am sick.
+আমি ভালো আছি।	I am well.
+আমি দৌড়াতে পারি।	I can run.
+আমি স্কী করতে পারি।	I can ski.
+আমি অজ্ঞান হয়ে গেলাম।	I fainted.
+আমি টমকে মারলাম।	I hit Tom.
+আমি তাকে দখতে পেলাম।	I saw him.
+আমি ওনাকে দখতে পেলাম।	I saw him.
+আমার এটা চাই।	I want it.
+আমি যাবো।	I will go.
+আমি কথা বলব।	I'll talk.
+আমি জেগে আছি।	I'm awake.
+আমি দেউলিয়া হয়ে গেছি।	I'm broke.
+আমি পরিষ্কার।	I'm clean.
+আমি তৈরি।	I'm ready.
+আমিই ঠিক।	I'm right.
+আমি ঠিক।	I'm right.
+ক্ষমা করবেন।	I'm sorry.
+আমি ক্লান্ত।	I'm tired.
+এখন ৭:৪৫।	It's 7:45.
+দেরী হয়ে গেছে।	It's late.
+এটা আমার।	It's mine.
+এটা আমাদের।	It's ours.
+টমকে ছাড়ো।	Leave Tom.
+টমকে ছাড়ুন।	Leave Tom.
+টমের কথা ছাড়ো।	Leave Tom.
+টমের কথা ছাড়ুন।	Leave Tom.
+আমাকে যেতে দাও!	Let me go!
+আমাকে ঢুকতে দিন।	Let me in.
+আমাকে ঢুকতে দাও।	Let me in.
+আমাদের ঢুকতে দিন।	Let us in.
+জিজ্ঞাসা করা যাক।	Let's ask.
+আমি কি খেতে পারি?	May I eat?
+নিশ্চই!	Of course!
+অবশ্যই!	Of course!
+নিশ্চই।	Of course.
+অবশ্যই।	Of course.
+কী বললেন?	Pardon me?
+কী বললে?	Pardon me?
+উপরে দেখুন।	See above.
+নীচে দেখুন।	See below.
+উনি হাঁটেন।	She walks.
+সে হাঁটে।	She walks.
+ও হাঁটে।	She walks.
+তিনি হাঁটেন।	She walks.
+এখানে সই করুন।	Sign here.
+আস্তে চালান।	Slow down.
+এখানে দাঁড়ান।	Stay here.
+এখানে দাঁড়াও।	Stay here.
+তাহলে?	Then what?
+তাহলে আবার কী?	Then what?
+টম চেষ্টা করলো।	Tom tried.
+টম চেষ্টা করে।	Tom tries.
+টম ভোট দিলো।	Tom voted.
+টম হাঁটে।	Tom walks.
+টম লাজুক।	Tom's shy.
+টমকে বিশ্বাস করুন।	Trust Tom.
+টমকে বিশ্বাস করো।	Trust Tom.
+আবার চেষ্টা করুন।	Try again.
+আবার চেষ্টা করো।	Try again.
+বাঁদিকে ঘুরুন।	Turn left.
+বাঁদিকে ঘোরো।	Turn left.
+এখানে অপেক্ষা করুন।	Wait here.
+এখানে অপেক্ষা করো।	Wait here.
+টমের উপর নজর রাখো।	Watch Tom.
+টমের উপর নজর রাখুন।	Watch Tom.
+দেখে!	Watch out!
+সাবধানে!	Watch out!
+আমরা অসফল হলাম।	We failed.
+আমরা ভুলে গেলাম।	We forgot.
+আমরা দেখেছি।	We saw it.
+আমরা চেষ্টা করব।	We'll try.
+আমরাই জিতব।	We'll win.
+আমরা জিতবই।	We'll win.
+আমরা লাজুক।	We're shy.
+কি খবর?	What's up?
+কার কী এসে যায়?	Who cares?
+উনি কে?	Who is he?
+ও কে?	Who is he?
+সে কে?	Who is he?
+তিনি কে?	Who is he?
+কে?	Who is it?
+উনি কে?	Who's she?
+ও কে?	Who's she?
+সে কে?	Who's she?
+তিনি কে?	Who's she?
+দারুন!	Wonderful!
+আপনিই চালান।	You drive.
+তুমি চালাও।	You drive.
+সাবধানে।	Be careful.
+পাখি গান গায়।	Birds sing.
+আবার আসবেন।	Come again.
+আবার এসো।	Come again.
+নিশ্চই!	Definitely!
+একদম!	Definitely!
+এসো না।	Don't come.
+আসবেন না।	Don't come.
+আসিস না।	Don't come.
+কথা বলবেন না!	Don't talk!
+কথা বলিস না!	Don't talk!
+কথা বোল না!	Don't talk!
+কথা বোল না।	Don't talk.
+কথা বলিস না।	Don't talk.
+কথা বলবেন না।	Don't talk.
+ভর্তি করে দিন।	Fill it up.
+টমকে অনুসরণ করো।	Follow Tom.
+টমকে অনুসরণ করুন।	Follow Tom.
+টমের পেছন পেছন যান।	Follow Tom.
+টমের পেছন পেছন যাও।	Follow Tom.
+টমের পিছু নিন।	Follow Tom.
+টমের পিছু নাও।	Follow Tom.
+টমকে ভুলে যাও।	Forget Tom.
+টমকে ভুলে যান।	Forget Tom.
+ওকে ছাড়ুন।	Forget him.
+ওনাকে ছাড়ুন।	Forget him.
+ওকে ছাড়ো।	Forget him.
+ওনাকে ছাড়ো।	Forget him.
+তাকে ছাড়ো।	Forget him.
+তাকে ছাড়ুন।	Forget him.
+ভগবান আছে।	God exists.
+শুভ রাত্রি।	Good night.
+উনি বেশ।	He is nice.
+আমি তৈরি।	I am ready.
+আমি পড়তে পারি।	I can read.
+আমি সাঁতার কাটতে পারি।	I can swim.
+আমি এখানে খাই।	I eat here.
+আমি মাংস খাই।	I eat meat.
+আমি অসুস্থ হয়ে পরেছিলাম।	I got sick.
+আমার একটা আছে।	I have one.
+আমি জিতে গেছি।	I have won.
+আমি শুনেছি।	I heard it.
+আমি এই সবে খেলাম।	I just ate.
+আমি এখনই খেলাম।	I just ate.
+আমি ওনাকে পছন্দ করি।	I like him.
+আমি ওকে পছন্দ করি।	I like him.
+আমি তাকে পছন্দ করি।	I like him.
+আমার ওনাকে ভালো লাগে।	I like him.
+আমার তাকে ভালো লাগে।	I like him.
+আমার ওকে ভালো লাগে।	I like him.
+আমার চা ভালো লাগে।	I like tea.
+আমি তোমাকে ভালবাসি।	I love you.
+আমার বরফ চাই।	I need ice.
+আমি প্রতিশ্রুতি দিলাম।	I promised.
+আমি পালিয়ে গেছিলাম।	I ran away.
+আমি বাড়ি পালিয়ে গেছিলাম।	I ran home.
+আমি বসে পরেছিলাম।	I sat down.
+আমি সেটা দেখেছিলাম।	I saw that.
+আমি ওটা দেখেছিলাম।	I saw that.
+আমি তাদের দেখতে পেলাম।	I saw them.
+আমি ওদের দেখতে পেলাম।	I saw them.
+আমি তাঁদের দেখতে পেলাম।	I saw them.
+আমি ওনাদের দেখতে পেলাম।	I saw them.
+আমি চিৎকার করলাম।	I screamed.
+আমি চেঁচালাম।	I screamed.
+আমি বাইরে ছিলাম।	I was away.
+আমি বাইরে গেছিলাম।	I was away.
+আমার দেরি হয়ে গেছিল।	I was late.
+আমি হারিয়ে গেছিলাম।	I was lost.
+আমি এর পক্ষে।	I'm for it.
+আমি ভেতরে আছি।	I'm inside.
+আমি ভেতরে।	I'm inside.
+আমি একদম পাগল।	I'm so mad.
+ওটা কি এখানে আছে?	Is it here?
+তাই বুঝি?	Is that so?
+চুপ করো!	Keep quiet!
+চুপ কর!	Keep quiet!
+চুপ কর।	Keep quiet.
+চুপ করো।	Keep quiet.
+শহর ছাড়ো!	Leave town.
+গল্প করা যাক।	Let's chat.
+কথা বলা যাক।	Let's talk.
+হাঁটা যাক।	Let's walk.
+ওইদিকে দেখুন।	Look there.
+ওইদিকে দেখো।	Look there.
+ছাড়!	Never mind!
+ছাড়ো!	Never mind!
+কোনো অসুবিধা নেই!	No problem!
+কোনো অসুবিধা নেই।	No problem.
+ও, তাই নাকি?	Oh, really?
+আর একবার।	Once again.
+সে হাঁসলো।	She smiled.
+উনি হাঁসলেন।	She smiled.
+তিনি হাঁসলেন।	She smiled.
+ও হাঁসলো।	She smiled.
+ওখানেই থাকো।	Stay there.
+ওখানেই থাকুন।	Stay there.
+সরে যান।	Step aside.
+সরে যাও।	Step aside.
+ওখানেই থামুন।	Stop there.
+ওখানেই থামো।	Stop there.
+সময় শেষ।	Time is up.
+সময় শেষ হয়ে গেছে।	Time is up.
+টম সাহায্য করলো।	Tom helped.
+টম মাথা নাড়লো।	Tom nodded.
+টম সেটা দেখলো।	Tom saw it.
+টম ওটা দেখলো।	Tom saw it.
+টম এটা দেখলো।	Tom saw it.
+টম দীর্ঘশ্বাস ছাড়লো।	Tom sighed.
+টম হাসলো।	Tom smiled.
+টম নাক ডাকে।	Tom snores.
+টম চোখ মারলো।	Tom winked.
+টম হাই তুললো।	Tom yawned.
+টম চিৎকার করলো।	Tom yelled.
+টম চেঁচালো।	Tom yelled.
+টম মৃত।	Tom's dead.
+টম বধির।	Tom's deaf.
+টম মারা গেছে।	Tom's died.
+টম আহত হয়েছে।	Tom's hurt.
+টম আহত।	Tom's hurt.
+টম অসুস্থ।	Tom's sick.
+টমের শরির খারাপ।	Tom's sick.
+টমের অসুখ হয়েছে।	Tom's sick.
+ডানদিকে ঘোরো।	Turn right.
+ডানদিকে ঘুরুন।	Turn right.
+এটা দেখুন।	Watch this.
+এটা দেখো।	Watch this.
+আমার এটা চাই।	We want it.
+আমরা সাহায্য করব।	We'll help.
+আমরা গান করবো।	We'll sing.
+আমরা অপেক্ষা করব।	We'll wait.
+আমরা কাজ করবো।	We'll work.
+আমরা এখানে আছি।	We're here.
+আমরা এখানে।	We're here.
+আমরা হারিয়ে গেছি।	We're lost.
+আমরা কারা?	Who are we?
+কার কাছে আছে?	Who has it?
+উনি কে?	Who is she?
+ও কে?	Who is she?
+সে কে?	Who is she?
+তিনি কে?	Who is she?
+কে ছিলো?	Who was it?
+ওটা কে?	Who's that?
+আপনি ডেকেছিলেন?	You called?
+তুমি ডেকেছিলে?	You called?
+আপনি ফোন করেছিলেন?	You called?
+তুমি ফোন করেছিলে?	You called?
+আমাদের কি হয়ে গেছে?	Are we done?
+হয়ে গেছে?	Are we done?
+টমের সঙ্গে যোগাযোগ করুন।	Contact Tom.
+টমের সঙ্গে যোগাযোগ করো।	Contact Tom.
+টম কি খেয়েছে?	Did Tom eat?
+আবার করুন!	Do it again!
+আবার কর!	Do it again!
+তর্ক করবেন না।	Don't argue.
+তর্ক কোরো না।	Don't argue.
+লড়াই করবেন না।	Don't fight.
+ঝগড়া করবেন না।	Don't fight.
+ঝগড়া কোরো না।	Don't fight.
+লড়াই কোরো না।	Don't fight.
+কথা বোল না।	Don't speak.
+কথা বলিস না।	Don't speak.
+কথা বলবেন না।	Don't speak.
+টমকে ক্ষমা করে দিন।	Forgive Tom.
+টমকে ক্ষমা করে দাও।	Forgive Tom.
+উনি আসতে পারেন।	He can come.
+ও আসতে পারে।	He can come.
+সে আসতে পারে।	He can come.
+তিনি আসতে পারেন।	He can come.
+উনি পড়তে পারেন।	He can read.
+ও পড়তে পারে।	He can read.
+সে পড়তে পারে।	He can read.
+উনি উঠে দাঁড়ালেন।	He stood up.
+সে উঠে দাঁড়ালো।	He stood up.
+তিনি উঠে দাঁড়ালেন।	He stood up.
+ও উঠে দাঁড়ালো।	He stood up.
+আপনি কেমন আছেন?	How are you?
+তুমি কেমন আছো?	How are you?
+তুই কেমন আছিস?	How are you?
+আমি বেশি লম্বা।	I am taller.
+আমি ক্ষমা চাইছি।	I apologize.
+আমি ফিরে এলাম।	I came back.
+আমি নাচতে পারি।	I can dance.
+আমি ঠিক বলতে পারবো না।	I can't say.
+আমি কাঁদি না।	I don't cry.
+আমি পাঁউরুটি খাই।	I eat bread.
+আমার শীত করছে।	I feel cold.
+আমার ভাল লাগছে।	I feel fine.
+আমার ভাল লাগছে।	I feel good.
+আমার ভাল লাগছে।	I feel well.
+আমি ওটা অনুভব করলাম।	I felt that.
+আমার একটা বেড়াল ছিলো।	I had a cat.
+আমার সময় আছে।	I have time.
+আমি এটা জানি।	I know this.
+আমার দুটোই পছন্দ।	I like both.
+আমি কেক পছন্দ করি।	I like cake.
+আমার কেক ভালো লাগে।	I like cake.
+আমার অঙ্ক ভালো লাগে।	I like math.
+আমি অঙ্ক পছন্দ করি।	I like math.
+আমি ভাত পছন্দ করি।	I like rice.
+আমি এখানে বাস করি।	I live here.
+আমি এখানে থাকি।	I live here.
+আমি এখানে বসবাস করি।	I live here.
+আমার সাহায্য দরকার।	I need help.
+আমার সময় দরকার।	I need time.
+আমি টমকে বিশ্বাস করি।	I trust Tom.
+আমি আপনাকে বিশ্বাস করি।	I trust you.
+আমি তোমাকে বিশ্বাস করি।	I trust you.
+আমার আরো চাই।	I want more.
+আমার এটা চাই।	I want this.
+এটা আমার প্রয়োজন।	I want this.
+আমার সময় চাই।	I want time.
+আমি একা ছিলাম।	I was alone.
+আমি ওখানে ছিলাম।	I was there.
+আমি ক্লান্ত ছিলাম।	I was tired.
+আমিও গেছিলাম।	I went, too.
+আমি মিথ্যা বলবো না।	I won't lie.
+আমি এখানি কাজ করি।	I work here.
+আমি এটা কিনবো।	I'll buy it.
+আমি চেঁচাবো।	I'll scream.
+আমিও ১৭।	I'm 17, too.
+আমি একজন মহিলা।	I'm a woman.
+আমি নাচছি।	I'm dancing.
+আমি সুস্থ।	I'm healthy.
+আমি টম নই।	I'm not Tom.
+আমি পড়ছি।	I'm reading.
+আমি কথা বলছি।	I'm talking.
+আমার তেষ্টা পেয়েছে।	I'm thirsty.
+টম কি এখানে আছে?	Is Tom here?
+টম কি বাড়িতে আছে?	Is Tom home?
+টম কি ভালো আছে?	Is Tom well?
+অার কিছু?	Is that all?
+এটা হতে পারে না!	It can't be!
+হতেই পারে না!	It can't be!
+বরফ পরতে পারে।	It may snow.
+টমের দিকে তাকান।	Look at Tom.
+টমের দিকে তাকাও।	Look at Tom.
+অনেক ধন্যবাদ।	Many thanks.
+ওটা আমার।	That's mine.
+তারা চিৎকার করলো।	They yelled.
+তাঁরা চিৎকার করলেন।	They yelled.
+ওরা চিৎকার করলো।	They yelled.
+ওনারা চিৎকার করলেন।	They yelled.
+ওনারা চেঁচালেন।	They yelled.
+ওরা চেঁচালো।	They yelled.
+তারা চেঁচালো।	They yelled.
+তাঁরা চেঁচালেন।	They yelled.
+এটা নতুন।	This is new.
+টম ভ্রূকুটি করলো।	Tom frowned.
+টম ভুরু কোঁচকালো।	Tom frowned.
+টম রেগে গেছিলো।	Tom got mad.
+টম নিশ্বাস ছাড়লো।	Tom inhaled.
+টম মৃত।	Tom is dead.
+টম আহত হয়েছে।	Tom is hurt.
+টম আহত।	Tom is hurt.
+টম অসুস্থ।	Tom is sick.
+টমের শরির খারাপ।	Tom is sick.
+টমের অসুখ হয়েছে।	Tom is sick.
+টম হাঁসলো।	Tom laughed.
+টম আমাকে ছেড়ে চলে গিয়েছিল।	Tom left me.
+টম তাকে দেখলো।	Tom saw her.
+টম ওকে দেখলো।	Tom saw her.
+টম ওনাকে দেখলো।	Tom saw her.
+টম তাকে দেখলো।	Tom saw him.
+টম ওকে দেখলো।	Tom saw him.
+টম ওনাকে দেখলো।	Tom saw him.
+টম আপনাকে দেখলো।	Tom saw you.
+টম তোমাকে দেখলো।	Tom saw you.
+টম আপনাদের দেখলো।	Tom saw you.
+টম তোমাদের দেখলো।	Tom saw you.
+টম চিৎকার করলো।	Tom shouted.
+টম চেঁচালো।	Tom shouted.
+টম বেঁচে আছে।	Tom's alive.
+টম একলা আছে।	Tom's alone.
+টমই ঠিক।	Tom's right.
+টম ক্লান্ত।	Tom's tired.
+আস্তে হাঁটুন।	Walk slowly.
+আস্তে হাঁটো।	Walk slowly.
+আমরা এখানে আছি।	We are here.
+আমরা ডিম খেয়েছি।	We ate eggs.
+আমরা জমজ।	We're twins.
+আমি কি করলাম?	What'd I do?
+ওটা কী?	What's that?
+সেটা কী?	What's that?
+এটা কী?	What's this?
+আপনি কে?	Who are you?
+তুমি কে?	Who are you?
+তুই কে?	Who are you?
+আপনি অজ্ঞান হয়ে গেছিলেন।	You fainted.
+তুমি অজ্ঞান হয়ে গেছিলে।	You fainted.
+কেউ আছেন?	Anybody here?
+বাড়িতে কেউ আছেন?	Anybody home?
+আমরা কি তৈরি?	Are we ready?
+আপনি কি অসুস্থ?	Are you sick?
+তুমি কি অসুস্থ?	Are you sick?
+তুমি নিশ্চিত তো?	Are you sure?
+আপনি নিশ্চিত তো?	Are you sure?
+আপনি পড়তে পারেন?	Can you read?
+তুমি পড়তে পারো?	Can you read?
+বাইরে আসো।	Come outside.
+বাইরে আসুন।	Come outside.
+আমার সাথে এসো।	Come with me.
+আমার সঙ্গে আসুন।	Come with me.
+আমার সঙ্গে আস।	Come with me.
+আস্তে গাড়ি চালান।	Drive slowly.
+আস্তে গাড়ি চালাও।	Drive slowly.
+ভুত আছে।	Ghosts exist.
+শুভ সন্ধ্যা।	Good evening.
+সুপ্রভাত।	Good morning.
+আমার হাতটা ধরুন।	Grab my hand.
+আমার হাতটা ধরো।	Grab my hand.
+সে রেগে গেছিলো।	He got angry.
+তিনি রেগে গেছিলেন।	He got angry.
+উনি রেগে গেছিলেন।	He got angry.
+ইনি রেগে গেছিলেন।	He got angry.
+ও রেগে গেছিলো।	He got angry.
+উনি খাচ্ছেন।	He is eating.
+তিনি খাচ্ছেন।	He is eating.
+সে খাচ্ছে।	He is eating.
+ও খাচ্ছে।	He is eating.
+আমার হাতটা ধরুন।	Hold my hand.
+আমার হাতটা ধরো।	Hold my hand.
+আমি পরোয়া করি না।	I don't care.
+আমি জানি না।	I don't know.
+আমি বিয়ার খাই।	I drink beer.
+আমি এখানে পড়াই।	I teach here.
+আমি বুঝি।	I understand.
+আমি অবাক হয়ে গেছিলাম।	I was amazed.
+আমি লড়বো।	I will fight.
+আমি আসবো না।	I won't come.
+আমি হারবো না।	I won't lose!
+আমার দেরী হবে।	I'll be late.
+আমি ডাক্তার।	I'm a doctor.
+আমি একজন ডাক্তার।	I'm a doctor.
