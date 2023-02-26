@@ -1,4 +1,4 @@
-# Bn_Translator
+# Bangla_Translation
 Transformer Based Bangla Machine Translator. Here we have used 195775 number of sentence pair Bangla to English sentence.
 
 Using the Bangla dataset plus the dataset in the data folder, I was able to achieve a BLEU score of 0.39 on the test set (current SOTA is around 0.42), after 4/5 days of training on a single 8gb GPU. For more results see the tutorial again.
