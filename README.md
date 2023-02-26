@@ -37,6 +37,19 @@ Number of English unique word :
 Available Public dataset:
 I use dataset provide in http://www.manythings.org/anki/ben-eng.zip . This dataset contain english bangla sentence pair in the following format.
 
+
+# Train Sentencepice Tokenizer:
+
+```
+import sentencepiece as spm
+text_path = "dataset.txt"
+vocab_size = 30000
+spm.SentencePieceTrainer.train(f'--input={text_path} --model_prefix={model_prefix} --user_defined_symbols=<sep>,<cls> --vocab_size={vocab_size}')
+bn_sp = spm.SentencePieceProcessor()
+bn_sp.load(os.path.join(model_path, 'bn_model.model'))
+
+```
+
 # Configuration
 
 Additional parameters:
