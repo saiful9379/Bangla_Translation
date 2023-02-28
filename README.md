@@ -84,8 +84,22 @@ NUM_EPOCHS = 300
 Chcek the training model [click here]()
 
 # Inference
+```
+python inference.py --data "এই উপজেলায় ১টি সরকারি কলেজ রয়েছে" \
+--bn_tokenizer ./model/bn_model.model --en_tokenizer ./model/en_model.model\
+--bn_vocab ./model/bn_vocab.pkl --en_vocab ./model/en_vocab.pkl --model ./model/model_checkpoint.pt
+````
+Also can use ```inference.ipython``` file
 
 ![image](assert/translation.png)
+
+# Evaluation
+
+```
+python evaluation.py --data process_data/merge_data.txt --bn_tokenizer ./model/bn_model.model --en_tokenizer ./model/en_model.model\
+--bn_vocab ./model/bn_vocab.pkl --en_vocab ./model/en_vocab.pkl --model ./model/model_checkpoint.pt
+
+```
 
 
 
