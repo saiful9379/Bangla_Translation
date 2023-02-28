@@ -79,6 +79,11 @@ NUM_ENCODER_LAYERS = 6
 NUM_DECODER_LAYERS = 6
 NUM_EPOCHS = 300
 ```
+# Training
+
+```
+For Training here i have attached BnTranslation.ipynb file. so we can use this ipython file for your training purpose.
+```
 
 # Pretrain Model
 Chcek the training model [click here]()
@@ -89,7 +94,7 @@ python inference.py --data "এই উপজেলায় ১টি সরক�
 --bn_tokenizer ./model/bn_model.model --en_tokenizer ./model/en_model.model\
 --bn_vocab ./model/bn_vocab.pkl --en_vocab ./model/en_vocab.pkl --model ./model/model_checkpoint.pt
 ````
-Also can use ```inference.ipython``` file
+Also can use ```inference.ipynb``` file
 
 ![image](assert/translation.png)
 
