@@ -1,9 +1,7 @@
 # Bangla_Translation
-Transformer Based Bangla Machine Translator. Here we have used 195775 number of sentence pair Bangla to English sentence. We trained sentencepice tokenizer for both language and vocab size = 30000. 
+Translate bangla to english. This model is train based on encoder decoder with attention mechanism. This repository may be a starting point to approaching bangla machine translation problem. If this repository helps others people who are working on bangla machine translation then it would be very greatfull for me. Here we have used 195775 number of sentence pair Bangla to English sentences. We used sentencepice tokenizer for both language and the vocab have defined size = 30000. 
 
-Using the Bangla dataset plus the dataset in the data folder, I was able to achieve a BLEU score of 0.39 on the test set (current SOTA is around 0.42), after 4/5 days of training on a single 8gb GPU. For more results see the tutorial again.
-
-Translate bangla to english. This model is train based on encoder decoder with attention mechanism. This repository may be a starting point to approaching bangla machine translation problem. If this repository helps others people who are working on bangla machine translation then it would be very greatfull for me.
+Using the Bangla dataset, I was able to achieve a BLEU score of 0.39 on the total datasetp[195775] this model was train 24 hours on single GPU  24gb GPU.
 
 # Requirements
 ```
@@ -15,14 +13,12 @@ torchsummary==1.5.1
 torchtext==0.12.0
 torchvision==0.12.0+cu113
 transformers==3.0.2
+nltk==3.7 
 ```
 
 # Dataset
-We have collected ```195775``` number of sentence  pair ```Bangla<\t>English```. we seperated bangla and english sentence using ```\t```.
-
-Number of Bangla unique word :
-Number of English unique word : 
-
+We have collected ```195775``` number of sentence  pair ```Bangla to English```. we seperated bangla and english sentence using ```\t```.
+Data representation into txt file:
 ```
 তারা হলের প্রোভস্টের বাড়িতেও প্রবেশ করে	They enter the house of the provost of the hall 
 তার ঘোষণা মতে ২ আগস্ট থেকে ক্লাস শুরুর কথা ছিল	According to his announcement, the class was to start from August 2 
@@ -33,13 +29,10 @@ Number of English unique word :
 তিনি গেলার্ট গ্রিন্ডেলওয়াল্ডের প্রেমে পড়েছিলেন	He fell in love with Gelart Grindelwald 
 তিনি ব্রহ্মচর্য ও পুথিগত জীবনকেই বেছে নেন	He chose celibacy and bookish life 
 ```
-
 Available Public dataset:
 I use dataset provide in http://www.manythings.org/anki/ben-eng.zip . This dataset contain english bangla sentence pair in the following format.
 
-
 # Train Sentencepice Tokenizer:
-
 ```
 import sentencepiece as spm
 text_path = "dataset.txt"
@@ -47,42 +40,27 @@ vocab_size = 30000
 spm.SentencePieceTrainer.train(f'--input={text_path} --model_prefix={model_prefix} --user_defined_symbols=<sep>,<cls> --vocab_size={vocab_size}')
 bn_sp = spm.SentencePieceProcessor()
 bn_sp.load(os.path.join(model_path, 'bn_model.model'))
-
 ```
-
 # Configuration
-
+Here used Transformer model and here try to share the training configuration of the trained model.
 Additional parameters:
 ```
 -epochs : 300
--batch_size : 1500
--n_layers : 
--heads : 
+-batch_size : 150
+-n_layers : 6 
+-heads : 8
 -no_cuda : 
 -SGDR : 
--d_model : Dimension of embedding vector and layers (default=512)
--dropout' : Decide how big dropout will be (default=0.1)
--printevery : how many iterations run before printing (default=100)
--lr : learning rate (default=0.0001)
--load_weights : 
--max_strlen : 
--checkpoint :
-```
-```
-SRC_VOCAB_SIZE = len(bn_vocab)
-TGT_VOCAB_SIZE = len(en_vocab)
-EMB_SIZE = 512
-NHEAD = 8
-FFN_HID_DIM = 512
-BATCH_SIZE = 150
-NUM_ENCODER_LAYERS = 6
-NUM_DECODER_LAYERS = 6
-NUM_EPOCHS = 300
+-d_model :512
+-dropout' : 0.1
+-lr : 0.0001
+
 ```
 # Training
 
+For Training here, i have attached BnTranslation.ipynb file. so we can use this ipython file for your custom data training purpose.
 ```
-For Training here i have attached BnTranslation.ipynb file. so we can use this ipython file for your training purpose.
+BnTranslation.ipynb 
 ```
 
 # Pretrain Model
