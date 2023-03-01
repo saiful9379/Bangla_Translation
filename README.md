@@ -3,6 +3,8 @@ Translate bangla to english. This model is train based on encoder decoder with a
 
 Using the Bangla dataset, I was able to achieve a BLEU score of ___ on the total dataset[195775 sentence] this model was train 24 hours on single GPU  24gb GPU.
 
+Paper link of Transformer model : ![Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
+
 # Requirements
 ```
 numpy==1.19.5
