@@ -44,8 +44,7 @@ bn_sp = spm.SentencePieceProcessor()
 bn_sp.load(os.path.join(model_path, 'bn_model.model'))
 ```
 # Configuration
-Here used Transformer model and here try to share the training configuration of the trained model.
-Additional parameters:
+Here the training configuration of Transformer model and it's additional parameters:
 ```
 -epochs : 300
 -batch_size : 150
