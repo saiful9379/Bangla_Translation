@@ -73,6 +73,8 @@ python inference.py --data "এই উপজেলায় ১টি সরক�
 --bn_tokenizer ./model/bn_model.model --en_tokenizer ./model/en_model.model\
 --bn_vocab ./model/bn_vocab.pkl --en_vocab ./model/en_vocab.pkl --model ./model/model_checkpoint.pt
 ````
+![image](assert/inference.png)
+
 Also can use ```inference.ipynb``` file
 
 ![image](assert/translation.png)
