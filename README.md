@@ -50,8 +50,6 @@ Here the training configuration of Transformer model and it's additional paramet
 -batch_size : 150
 -n_layers : 6 
 -heads : 8
--no_cuda : 
--SGDR : 
 -d_model :512
 -dropout' : 0.1
 -lr : 0.0001
