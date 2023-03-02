@@ -85,7 +85,10 @@ python evaluation.py --data process_data/merge_data.txt --bn_tokenizer ./model/b
 
 ```
 
+Testing Total Data[195775]:
+BLUE Score : 0.9570595683021429
 
+![image](assert/blue_score.png)
 
 # Experiemnt Machine Configuration,
 ```
