@@ -8,6 +8,8 @@ import sentencepiece as spm
 from utils import utils_cls
 from model import BanglaTransformer
 from config import config as cfg
+from torch.nn.utils.rnn import pad_sequence
+from torch.utils.data import DataLoader
 # very short
 from nltk.translate.bleu_score import sentence_bleu
 torch.manual_seed(0)
@@ -83,12 +85,12 @@ def translate(model, src, src_vocab, tgt_vocab, src_tokenizer):
     pts = " ".join(list(map(lambda x : x , p_text.replace(" ", "").split("▁"))))
     return pts.strip()
 
-
 def evaluation(data, model, bn_vocab, en_vocab, bn_tokenizer, en_tokenizer):
     # for i in tqdm
     score_list = []
-    for i in tqdm(range(len(data)), desc ="Bangla and Englaish Sentence:"):
+    for i in tqdm(range(len(data)), desc ="Language Tranlation Performance Testing:"):
         text = data[i]
+        # print(text)
         pre = translate(model, text[0], bn_vocab, en_vocab, bn_tokenizer)
         gt = get_token(text[1], en_tokenizer)
         pt = get_token(pre, en_tokenizer)
@@ -118,10 +120,12 @@ if __name__ == "__main__":
     parser.add_argument('--bn_vocab', type=str, default='./model/bn_vocab.pkl', help='data')  # file/folder, 0 for webcam
     parser.add_argument('--en_vocab', type=str, default='./model/en_vocab.pkl', help='data')  # file/folder, 0 for webcam
     parser.add_argument('--model', type=str, default='./model/model_checkpoint.pt', help='model path')
+    parser.add_argument('--batch_size', type=int, default=150, help='batch size')
     
     opt = parser.parse_args()
 
     data = read_data(opt.data)
+   
     print("Tokenizer Loading ...... : ", end="", flush=True)
     bn_tokenizer = load_tokenizer(tokenizer_path=opt.bn_tokenizer)
     en_tokenizer = load_tokenizer(tokenizer_path=opt.en_tokenizer)
@@ -133,7 +137,8 @@ if __name__ == "__main__":
     model = load_model(model_path=opt.model, SRC_VOCAB_SIZE=len(bn_vocab), TGT_VOCAB_SIZE=len(en_vocab))
     print("Done")
 
-    evaluation(data[:100], model, bn_vocab, en_vocab, bn_tokenizer, en_tokenizer)
+
+    evaluation(data, model, bn_vocab, en_vocab, bn_tokenizer, en_tokenizer)
     
     # pre = translate(model, text, bn_vocab, en_vocab, bn_tokenizer)
     # print(f"input : {text}")
