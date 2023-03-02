@@ -1,5 +1,5 @@
 # Bangla_Translation
-Translate bangla to english. This model is train based on encoder decoder with attention mechanism. This repository may be a starting point to approaching bangla machine translation problem. If this repository helps others people who are working on bangla machine translation then it would be very greatfull for me. Here we have used 195775 number of sentence pair Bangla to English sentences. We used sentencepice tokenizer for both language and the vocab have defined size = 30000. 
+Translate Bangla to English. This model is train based on encoder decoder with attention mechanism. This repository may be a starting point to approaching bangla machine translation problem. If this repository helps others people who are working on bangla machine translation then it would be very greatfull for me. Here we have used 195775 number of sentence pair Bangla to English sentences. We used sentencepice tokenizer for both language and the vocab have defined size = 30000. 
 
 Using the Bangla dataset, I was able to achieve a BLEU score of 0.9570595683021429 on the total dataset[195775 sentence] this model was train 24 hours on single GPU  24gb GPU.
 
