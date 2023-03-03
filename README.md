@@ -5,7 +5,8 @@ After training on a single 24GB GPU for 24 hours, this model achieved a BLEU sco
 
 Paper link of Transformer model : ![Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)
 
-![image](assert/25720743.png)
+![image](assert/25720743.png) 
+
 ![huggingface](https://huggingface.co/saiful9379/Bangla-to-English-Translation)
 
 # Requirements
@@ -66,7 +67,8 @@ BnTranslation.ipynb
 ```
 
 # Pretrain Model
-Chcek the training model [click here]()
+
+Chcek the training model [click here](https://huggingface.co/saiful9379/Bangla-to-English-Translation)
 
 # Inference
 ```
