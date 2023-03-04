@@ -9,7 +9,7 @@ device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
 uobj = utils_cls(device=device)
 
-__MODULE__       = "Bangla Language Tranlation"
+__MODULE__       = "Bangla Language Translation"
 __MAIL__         = "saifulbrur79@gmail.com"
 __MODIFICAIOTN__ = "28/03/2023"
 __LICENSE__      = "MIT"
