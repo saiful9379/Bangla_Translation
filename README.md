@@ -100,7 +100,19 @@ BLUE Score : 0.9570595683021429
 NVIDIA Driver Version: 470.161.03
 CUDA Version: 11.2
 NVIDIA GeForce 3090 : 24 GB
+
 ```
+
+# Citation
+```
+@misc{Bangla_Translation ,
+  title={Transformer Based Bangla To Enlgish Translator},
+  author={Md Saiful Islam},
+  howpublished={https://github.com/saiful9379/Bangla_Translation},
+  year={2023}
+}
+```
+
 # References
 1. https://torchtutorialstaging.z5.web.core.windows.net/beginner/translation_transformer.html
 2. https://arusl.medium.com/japanese-english-language-translation-with-transformer-using-pytorch-243738146806
